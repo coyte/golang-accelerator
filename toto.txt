@@ -1,0 +1,5 @@
+# Todo List
+
+- ytt project name in .github/workflows/techdocs.yml
+- ytt label in catalog-info : backstage.io/kubernetes-label-selector: "app.kubernetes.io/part-of=golang-accelerator"
+
